@@ -1,1 +1,2 @@
-1234
+- [ ] [Вернуться на главную](https://github.com/ivettewo)
+- [x] [Вернуться в корзину](https://github.com/ivettewo/trash/int/)
